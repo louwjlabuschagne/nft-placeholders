@@ -1,0 +1,24 @@
+{
+  "image": "https://raw.githubusercontent.com/louwjlabuschagne/nft-placeholders/master/img/elephantwhispers/3.jpg",
+  "description": "In the Shona language, the name Shamwari means ‘friend’ and true to his name, Shamwari is a lovely warm elephant who takes great pleasure in human company and attention. His tall forelegs are the object of much admiration!",
+  "external_url": "https://www.elephantwhispers.co.za/wp-content/uploads/2019/05/Elephant-Whispers-Shamwari-Profile.pdf",
+  "name": "Shamwari",
+  "attributes": [
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Age",
+      "value": 24
+    },
+    {
+      "trait_type": "Shoulder Height (m)",
+      "value": 3.04
+    },
+    {
+      "trait_type": "Approximate Weight (tons)",
+      "value": 3
+    }
+  ]
+}

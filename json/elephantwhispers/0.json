@@ -1,0 +1,24 @@
+{
+  "image": "https://raw.githubusercontent.com/louwjlabuschagne/nft-placeholders/master/img/elephantwhispers/0.jpg",
+  "description": "Tembo is the largest elephant at Elephant Whispers. His trusting personality truly embodies the description ‘gentle giant’, which can be seen in his interaction with his caregivers and with the rest of the herd.",
+  "name": "Tembo",
+  "external_url": "https://www.elephantwhispers.co.za/wp-content/uploads/2019/05/Elephant-Whispers-Tembo-Profile.pdf",
+  "attributes": [
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Age",
+      "value": 35
+    },
+    {
+      "trait_type": "Shoulder Height (m)",
+      "value": 3.45
+    },
+    {
+      "trait_type": "Approximate Weight (tons)",
+      "value": 6.5
+    }
+  ]
+}

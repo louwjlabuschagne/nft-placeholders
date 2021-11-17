@@ -1,0 +1,24 @@
+{
+  "image": "https://raw.githubusercontent.com/louwjlabuschagne/nft-placeholders/master/img/elephantwhispers/4.jpg",
+  "description": "Andile is a beautiful young female elephant with a healthy appetite that is impressive - even for an African Elephant!",
+  "name": "Andile",
+  "external_url": "https://www.elephantwhispers.co.za/wp-content/uploads/2019/05/Elephant-Whispers-Andile-Profile.pdf",
+  "attributes": [
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Age",
+      "value": 22
+    },
+    {
+      "trait_type": "Shoulder Height (m)",
+      "value": 2.63
+    },
+    {
+      "trait_type": "Approximate Weight (tons)",
+      "value": 1.9
+    }
+  ]
+}
