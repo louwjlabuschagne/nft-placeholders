@@ -1,0 +1,31 @@
+{
+  "image": "https://raw.githubusercontent.com/louwjlabuschagne/nft-placeholders/master/img/lwtf/3.jpg",
+  "description": "Solomon Plaatje was a gifted writer who used his pen and typewriter to influence politics and document history and struggles of his people. Through his many editorials he discouraged tribal factions and promoted a sense of African unity and national consciousness. Plaatje fought relentlessly against the 1913 Natives' Land Act, a cruel law that limited Africans to less than 10 percent of the country's land. He used his influence as an editor and as the first secretary-general of the SANNC to try and overturn this legislation that broke up entire communities and resulted in poverty on an unprecedented scale. He was a leading member of the SANNC delegation that traveled to England to raise an appeal against the 1913 Natives' Land Act, and again in 1919. Both appeals failed. He wrote one of his most memorable pieces, Native Life in South Africa, after he toured parts of the country - sometimes by bicycle - to get a first-hand look at the effects of the 1913 act. Less known is that Plaatje translated four of Shakespeare's plays into seTswana and that he never entered secondary school.",
+  "name": "Sol Plaatje",
+  "attributes": [
+    {
+      "trait_type": "Title",
+      "value": "1st Secretary-General of the South African Native National Congress (SANNC)"
+    },
+    {
+      "trait_type": "Occupation",
+      "value": "Secretary-General"
+    },
+    {
+      "trait_type": "Age",
+      "value": 56
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Guy du Toit"
+    },
+    {
+      "trait_type": "Born",
+      "value": 1876
+    },
+    {
+      "trait_type": "Died",
+      "value": 1932
+    }
+  ]
+}

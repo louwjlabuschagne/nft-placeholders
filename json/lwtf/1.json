@@ -1,0 +1,31 @@
+{
+  "image": "https://raw.githubusercontent.com/louwjlabuschagne/nft-placeholders/master/img/lwtf/1.jpg",
+  "description": "Doman was a member of the Goringhaiqua, one of many Khoikhoi clans living in the Cape of Good Hope in the mid-1600s. Doman means 'voice' in the Khoikhoi language, a reference perhaps to his role as the interpreter of Jan van Riebeeck, Dutch colonial founder of Cape Town and the first governor of the Cape Colony. In 1657 Doman was sent on a long treacherous sea journey to the Dutch East India trade capital Batavia (present-day Jakarta) to be officially trained as an interpreter. In Batavia, he witnessed how the authority of the Dutch East India Company was questioned and challenged in conflicts between the Dutch and Muslim leaders there. Doman returned in 1658 and, taking courage from what he saw on his travels, promoted Khoikhoi interests over those of the Dutch trade negotiations. He was often seen heading groups of men in small skirmishes and was the leader in the first Khoikhoi-Dutch War of Resistance (1659-1660), which ended in a stalemate. Ultimately, however, he was unable to unite the Khoikhoi against the colonialists.",
+  "name": "Doman Goringhaiqua",
+  "attributes": [
+    {
+      "trait_type": "Title",
+      "value": "Leader of the First Khoikhoi-Dutch War"
+    },
+    {
+      "trait_type": "Occupation",
+      "value": "Interpreter to Cape Governor Jan van Riebeeck"
+    },
+    {
+      "trait_type": "Age",
+      "value": 45
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Sarah Richards"
+    },
+    {
+      "trait_type": "Born",
+      "value": 1618
+    },
+    {
+      "trait_type": "Died",
+      "value": 1663
+    }
+  ]
+}

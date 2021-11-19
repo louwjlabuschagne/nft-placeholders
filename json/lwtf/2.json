@@ -1,0 +1,31 @@
+{
+  "image": "https://raw.githubusercontent.com/louwjlabuschagne/nft-placeholders/master/img/lwtf/2.jpg",
+  "description": "Charlotte Maxeke was a pioneer in education and paved the way for African women's participation in politics when she the first black women's movement in South Africa. After touring in the United States with a group of American singers in 1894, Maxeke studied at Wilberforce, the oldest black university in America, as colonial laws prevented her from studying in her own country. She completed a B.Sc in 1901, becoming South Africa's first black female graduate. In the same year she returned to South Africa with her husband, Marshall Maxeke, and in 1908 founded the WIlberforce Institute for the African Methodist Episcopal Church in Evaton (Gauteng), before working at other schools across the country. Able to deliver a sermon-like speech and inspire all who heard her, Maxeke founded the Bantu Women's League in 1918. The Bantu Women's League was recognized as the women's branch of the ANC in 1931 and became the ANC Women's League in 1948.",
+  "name": "Charlotte Maxeke",
+  "attributes": [
+    {
+      "trait_type": "Title",
+      "value": "President of the National Council of African Women"
+    },
+    {
+      "trait_type": "Occupation",
+      "value": "Welfare Worker"
+    },
+    {
+      "trait_type": "Age",
+      "value": 68
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Zelda Stroud"
+    },
+    {
+      "trait_type": "Born",
+      "value": 1871
+    },
+    {
+      "trait_type": "Died",
+      "value": 1939
+    }
+  ]
+}
