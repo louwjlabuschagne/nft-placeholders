@@ -1,1 +1,7 @@
-{"image": "https://fanfire-nft-cdn.s3.us-east-1.amazonaws.com/img/8.jpeg", "description": "description: 8", "name": "name: 8"}
+{
+  "image": "https://fanfire-nft-cdn.s3.us-east-1.amazonaws.com/img/8.jpeg",
+  "description": "description: 8",
+  "name": "name: 8",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0x7DD58D587b896b068Bd00c35f52D7b109Efd006a"
+}
